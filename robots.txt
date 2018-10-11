@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hikarulim.github.io//sitemap.xml

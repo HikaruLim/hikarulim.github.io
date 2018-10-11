@@ -6,8 +6,8 @@
     <description>Recent content on Hikaru&#39;s Site</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
-    <contact></contact>
-    <copyright></copyright>
+    <contact>ribice@gmail.com</contact>
+    <copyright>&copy; <a href="https://github.com/ribice">Emir Ribic</a> 2017</copyright>
     
         <atom:link href="https://hikarulim.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,9 +16,12 @@
       <title>Second</title>
       <link>https://hikarulim.github.io/posts/second/</link>
       <pubDate>Wed, 10 Oct 2018 14:21:16 +0800</pubDate>
-      <author></author>
+      <author>Emir Ribic</author>
       <guid>https://hikarulim.github.io/posts/second/</guid>
       <description></description>
+      
+      <content>&lt;p&gt;where to post?&lt;/p&gt;
+</content>
       
     </item>
     
@@ -26,9 +29,14 @@
       <title>My First Post</title>
       <link>https://hikarulim.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 10 Oct 2018 13:28:22 +0800</pubDate>
-      <author></author>
+      <author>Emir Ribic</author>
       <guid>https://hikarulim.github.io/posts/my-first-post/</guid>
       <description></description>
+      
+      <content>&lt;p&gt;haha,it works.&lt;/p&gt;
+
+&lt;p&gt;this is my first post.&lt;/p&gt;
+</content>
       
     </item>
     
